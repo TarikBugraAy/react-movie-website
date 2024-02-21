@@ -1,6 +1,6 @@
 # TBA Movies Website
 
-This project is created by [JavaScript Mastery youtube channel's tutorial](https://youtu.be/b9eMGE7QtTk?si=tKC1U0Dhyur9MhjX). It is a simple movie website created using React.js and the OMDb API. Users can search for movies by title and view a list of search results. Each movie card displays basic information about the movie, such as title, year, and poster image.
+This project is created using [JavaScript Mastery youtube channel's tutorial](https://youtu.be/b9eMGE7QtTk?si=tKC1U0Dhyur9MhjX). It is a simple movie website created using React.js and the OMDb API. Users can search for movies by title and view a list of search results. Each movie card displays basic information about the movie, such as title, year, and poster image.
 
 
 ## Features
